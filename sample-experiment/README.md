@@ -1,7 +1,3 @@
-Add the following:
-- Docker build and run instructions
-- A place to store my results
-
 # Soil Data Collection Experiment
 An example experiment for our NTU Data Wrangling workshop.
 
